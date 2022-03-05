@@ -1,1 +1,15 @@
-<h1 style="text-align: center;">I. LOVE. SOFTWARE!!!</h1>
+<style>
+  h1 {
+    display: none;
+  }
+</style>
+
+<h1 align="center">
+  ~ 💻Tech involved? I'm in. 💻~
+</h1>
+
+<br>
+
+### Interests
+* 
+
