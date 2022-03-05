@@ -2,6 +2,8 @@
   ~ 💻Tech involved? I'm in. 💻~
 </h1>
 
+<br>
+
 <p align="center">Honestly, I just dig computers, they're pretty nifty.</p>
 
 ---
@@ -14,7 +16,7 @@
 
 I use HTML, CSS, Javascript, Node.js, and Express.
 
-`Learning more every day.`
+`Learning more every day...`
 
 
 <br>
