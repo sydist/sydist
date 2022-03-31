@@ -14,7 +14,7 @@
 * Music Production.
 * Stories and Fiction.
 
-I use HTML, CSS, SASS, Javascript, Typescript, Node.js, Express, MongoDB, Mongoose, and more...
+I use HTML, CSS, SASS, Javascript, Typescript, Node.js, Express, MongoDB, Mongoose, GameMaker Studio 2, and more...
 
 `Learning more every day...`
 
