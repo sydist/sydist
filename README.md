@@ -1,7 +1,7 @@
 <hr>
-<big align="center">
+<h1 align="center">
     <code>&#10092;h1&#10093; I code stuff &#10092;/h1&#10093;</code>
-</big>
+</h1>
 <hr>
 
 <fieldset>
