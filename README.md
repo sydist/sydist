@@ -1,8 +1,6 @@
 <hr>
-<h1>
-  <center>
+<h1 align="center">
     <code>&#10092;h1&#10093; I code stuff &#10092;/h1&#10093;</code>
-  </center>
 </h1>
 <hr>
 
