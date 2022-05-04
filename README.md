@@ -13,7 +13,7 @@
     <p>&#10146; <a href="https://www.yoyogames.com/en/gamemaker">GameMaker Studio 2</a> for making games.</p>
     <br>
     <p>&#10146; <a href="https://www.figma.com/">Figma</a> for making mockups and designs.</p>
-    <p>&#10146; <a href="https://www.image-line.com/">FL Studio</a> for audio production.</p>
+    <p>&#10146; <a href="https://www.ableton.com/en/">Ableton</a> for audio production.</p>
     <p>&#10146; <a href="https://discord.com/">Discord</a> for chilling with the boys.</p>
   </ul>
 </fieldset>
