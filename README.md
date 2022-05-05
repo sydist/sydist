@@ -1,8 +1,8 @@
-<h1 align="center"><code>&#60;h1&#62;I code things&#60;/h1&#62;</code></h1>
+<p align="center"><code>&#60;h1&#62;I code things&#60;/h1&#62;</code></p>
 
 <br>
 
-<h2>&#10146; Tools I use:</h2>
+<p>&#10146; Tools I use:</p>
 <ul>
   <p>&#10146; <a href="https://vscode.dev/">Visual Studio Code</a> as my text editor of choice.</p>
   <p>&#10146; <b> HTML, Sass/CSS, Typescript/Javascript</b> for making websites.</p>
