@@ -2,7 +2,7 @@ ___
 # `<h1>i code for fun</h1>`
 ___
 
-## `<ul aria-label="tools i use:">`
+## tools i use:
 
 >\> **HTML, Sass/CSS, Typescript/Javascript** for making the frontend.  
 >\> **Node.js, Typescript/Javascript, Express, MongoDB** for making the backend.  
@@ -13,7 +13,6 @@ ___
 >\> **Figma** for making mockups and designs.  
 >\> **Ableton** for audio production.  
 
-## `</ul>`
 ___
 
 For now, I am just having fun.  
