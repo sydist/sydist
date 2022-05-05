@@ -1,4 +1,4 @@
-<p align="center"><code>&#60;h1&#62;I code things&#60;/h1&#62;</code></p>
+<p align="center"><font size="+2"><code>&#60;h1&#62;I code things&#60;/h1&#62;</code></font></p>
 
 <br>
 
