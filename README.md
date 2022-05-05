@@ -1,20 +1,20 @@
-<font size="7">&#60;h1&#62;I code things&#60;/h1&#62;</font>
+___
+## `<h1>i code for fun</h1>`
+___
 
-<br>
+### `<ul aria-label="tools i use:">`
 
-<p>&#10146; Tools I use:</p>
-<ul>
-  <p>&#10146; <a href="https://vscode.dev/">Visual Studio Code</a> as my text editor of choice.</p>
-  <p>&#10146; <b> HTML, Sass/CSS, Typescript/Javascript</b> for making websites.</p>
-  <p>&#10146; <b> Node.js, Typescript, Express, MongoDB</b> for making a backend.</p>
-  <p>&#10146; <a href="https://www.yoyogames.com/en/gamemaker">GameMaker Studio 2</a> for making games.</p>
-  <br>
-  <p>&#10146; <a href="https://www.figma.com/">Figma</a> for making mockups and designs.</p>
-  <p>&#10146; <a href="https://www.ableton.com/en/">Ableton</a> for audio production.</p>
-  <p>&#10146; <a href="https://discord.com/">Discord</a> for chilling with the boys.</p>
-</ul>
+>\> **HTML, Sass/CSS, Typescript/Javascript** for making the frontend.  
+>\> **Node.js, Typescript/Javascript, Express, MongoDB** for making the backend.  
+>\> **GameMaker Language** for making games in GameMaker.
+>\> **Java** with fabric for minecraft modding.
+><br />   
+>\> **Visual Studio Code** as my text editor of choice.  
+>\> **Figma** for making mockups and designs.  
+>\> **Ableton** for audio production.  
 
-<br>
+### `</ul>`
+___
 
-<div>For now, I am just having fun.</div>
-<div>But one day, I hope I can do this as my job.</div>
+For now, I am just having fun.  
+But one day, I hope I can do this as my job.
