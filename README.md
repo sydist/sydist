@@ -1,5 +1,5 @@
 <hr>
-<h1 align="center"><code>&#10092;h1&#10093; I code stuff &#10092;/h1&#10093;</code></h1>
+<h1 align="center"><code>&#60;h1&#62;I code things&#60;/h1&#62;</code></h1>
 <hr>
 
 <br>
