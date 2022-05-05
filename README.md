@@ -1,8 +1,4 @@
-<hr>
 <h1 align="center"><code>&#60;h1&#62;I code things&#60;/h1&#62;</code></h1>
-<hr>
-
-<br>
 
 <fieldset>
   <legend><h2>&#10146; Tools I use:</h2></legend>
