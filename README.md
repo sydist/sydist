@@ -13,4 +13,3 @@ ___
 >\> **Figma** for making mockups and designs.  
 >\> **Ableton** for audio production.  
 
-___
