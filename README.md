@@ -14,6 +14,3 @@ ___
 >\> **Ableton** for audio production.  
 
 ___
-
-For now, I am just having fun.  
-But one day, I hope I can do this as my job.
