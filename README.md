@@ -1,6 +1,5 @@
-___
 # `<h1>i code for fun</h1>`
-___
+
 
 ## tools i use:
 
