@@ -3,7 +3,7 @@
 
 ## tools i use:
 
->\> **HTML, Sass/CSS, Typescript/Javascript** for making the frontend.  
+>\> **HTML, Sass/CSS, Javascript** for making the frontend.  
 >\> **Node.js, Typescript/Javascript, Express, MongoDB** for making the backend.  
 >\> **GameMaker Language** for making games in GameMaker.  
 >\> **Java** with fabric for minecraft modding.
