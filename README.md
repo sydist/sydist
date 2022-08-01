@@ -1,14 +1,12 @@
-# `<h1>i code for fun</h1>`
+```md
+> Hello world!
+# Welcome to my profile!
 
+* I program a bunch of random stuff, mostly using Web Technology.
+* I enjoy code in general, no specific area, I just like the stuff lol.
 
-## tools i use:
-
->\> **HTML, Sass/CSS, Javascript** for making the frontend.  
->\> **Node.js, Typescript/Javascript, Express, MongoDB** for making the backend.  
->\> **GameMaker Language** for making games in GameMaker.  
->\> **Java** with fabric for minecraft modding.
-><br />   
->\> **Visual Studio Code** as my text editor of choice.  
->\> **Figma** for making mockups and designs.  
->\> **Ableton** for audio production.  
-
+* Currently too young to work, but I'm definitely planning to.
+* I'll keep building my portfolio until then!
+ 
+- Sydist
+```
