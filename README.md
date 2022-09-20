@@ -1,6 +1,3 @@
+# The <sub>(pen)</sub> name<br>is Sydist.
 
-<marquee>
-    <h1 align=center>
-        Test
-    </h1>
-</marquee>
+Hello World
