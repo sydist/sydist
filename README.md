@@ -3,16 +3,12 @@
 🧑‍💻 Self-taught Software Engineer. 🧑‍💻  
 🎧 Hobbyist Music Producer.  🎧  
 
----
-
-## Tools I Use:
+## Tools I Use
 ![os] ![editor]  
 ![node] ![deno]  
 ![html] ![css]  
 ![ts] ![astro]   
 ![java] ![gms]  
-
----
 
 ## Stats
 
