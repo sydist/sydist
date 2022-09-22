@@ -1,18 +1,18 @@
-# The 🖊️ name is Sydist.
+# The `sudo` name is Sydist. <sub>(it's a pen name)</sub>
 
 🧑‍💻 Self-taught Software Engineer. 🧑‍💻  
 🎧 Hobbyist Music Producer.  🎧  
 
-## Tools I Use
+## My Tool Belt:
 ![os] ![editor]  
 ![node] ![deno]  
 ![html] ![css]  
 ![ts] ![astro]   
 ![java] ![gms]  
 
-## Stats
+## Stats:
 
-![Metrics](/github-metrics.svg)
+![metrics]
 
 
 [os]: https://img.shields.io/badge/windows-os-444444?style=for-the-badge&logo=windows11&labelColor=222222&logoColor=blue
@@ -26,3 +26,4 @@
 [css]: https://img.shields.io/badge/css3-cascade-444444?style=for-the-badge&logo=css3&labelColor=222222&logoColor=66aaff
 [java]: https://img.shields.io/badge/java-lang-444444?style=for-the-badge&labelColor=222222
 [gms]: https://img.shields.io/badge/gamemaker-game_engine-444444?style=for-the-badge&labelColor=222222
+[metrics]: ./github-metrics.svg
