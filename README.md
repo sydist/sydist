@@ -1,7 +1,7 @@
 # The `sudo` name is Sydist. <sub>(it's a pen name)</sub>
 
 🧑‍💻 Self-taught Software Engineer. 🧑‍💻  
-🎧 Hobbyist Music Producer.  🎧  
+🎧 Hobbyist Music Producer. 🎧  
 
 ## My Tool Belt:
 ![os] ![editor]  
