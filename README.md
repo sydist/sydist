@@ -1,20 +1,4 @@
-# The `sudo` name is Sydist. <sub>(it's a pen name)</sub>
-
-🧑‍💻 Self-taught Software Engineer. 🧑‍💻  
-🎧 Hobbyist Music Producer. 🎧  
-
-## My Tool Belt:
-![os] ![editor]  
-![node] ![deno]  
-![html] ![css]  
-![ts] ![astro]   
-![java] ![gms]  
-
-## Stats:
-
-![metrics]
-
-
+<!-- Variables -->
 [os]: https://img.shields.io/badge/windows-os-444444?style=for-the-badge&logo=windows11&labelColor=222222&logoColor=blue
 [editor]: https://img.shields.io/badge/code-editor-444444?style=for-the-badge&logo=visualstudiocode&labelColor=222222&logoColor=blue
 [music]: https://img.shields.io/badge/live_11-daw-444444?style=for-the-badge&logo=abletonlive&labelColor=222222
@@ -27,3 +11,20 @@
 [java]: https://img.shields.io/badge/java-lang-444444?style=for-the-badge&labelColor=222222
 [gms]: https://img.shields.io/badge/gamemaker-game_engine-444444?style=for-the-badge&labelColor=222222
 [metrics]: ./github-metrics.svg
+
+
+
+# The `sudo`-nym is Sydist. <sub>(it's a pen name)</sub>
+
+🧑‍💻 Self-taught Software Engineer. 🧑‍💻  
+🎧 Hobbyist Music Producer. 🎧  
+
+## My Tool Belt:
+![os] ![editor]  
+![node] ![deno]  
+![html] ![css]  
+![ts] ![astro]   
+![java] ![gms]  
+
+## Stats:
+![metrics]
