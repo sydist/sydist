@@ -14,5 +14,7 @@ jobs:
       - name: Generate Github metrics
         uses: lowlighter/metrics@latest
         with:
+          filename: metrics.svg
           token: ${{ secrets.METRICS_TOKEN }}
-          
+          base: header, repositories
+          plugin_lines: yes

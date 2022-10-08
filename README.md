@@ -10,7 +10,7 @@
 [css]: https://img.shields.io/badge/css3-cascade-444444?style=for-the-badge&logo=css3&labelColor=222222&logoColor=66aaff
 [java]: https://img.shields.io/badge/java-lang-444444?style=for-the-badge&labelColor=222222
 [gms]: https://img.shields.io/badge/gamemaker-game_engine-444444?style=for-the-badge&labelColor=222222
-[metrics]: ./github-metrics.svg
+[metrics]: ./metrics.svg
 
 
 
