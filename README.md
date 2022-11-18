@@ -22,7 +22,7 @@
 
 # The [sudo](https://en.wikipedia.org/wiki/Sudo)nym is <ins>[sydist](https://github.com/sydist)</ins>. <small>(it's a pen name.)</small>
 
-🧑‍💻 Self-taught Full-Stack Engineer. 🧑‍💻  
+🧑‍💻 Aspiring Full-Stack Engineer. 🧑‍💻  
 🎧 Hobbyist Music Producer. 🎧  
 
 ## Tools
