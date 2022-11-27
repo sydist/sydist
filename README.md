@@ -17,23 +17,28 @@
 [react]: https://img.shields.io/badge/react-lib-444444?style=for-the-badge&logo=react&labelColor=222222
 [rust]: https://img.shields.io/badge/rust-lang-444444?style=for-the-badge&logo=rust&labelColor=222222
 [metrics]: ./metrics.svg
+[portfolio]: https://sydist.github.io/
 
 
 
-# The [sudo](https://en.wikipedia.org/wiki/Sudo)nym is <ins>[sydist](https://github.com/sydist)</ins>. <small>(it's a pen name.)</small>
+# The [[sudo]](https://en.wikipedia.org/wiki/Sudo)nym is <ins>[sydist](https://github.com/sydist)</ins>.
 
-🧑‍💻 Aspiring Full-Stack Engineer. 🧑‍💻  
-🎧 Hobbyist Music Producer. 🎧  
+👋 Hey, I'm <ins>sydist</ins>. <small>(that's a pen name)</small>  
+i’m a self-taught full-stack engineer.
+using the tools below, i build websites,  tools, and sometimes games!
 
-## Tools
-![astro]    ![css]  
-![deno]     ![editor]     
-![figma]    ![git]   
-![gms]      ![html]  
-![java]     ![js]  
-![node]     ![os]    
-![react]    ![rust]  
-![ts]       ![vite]  
+## Tools ⚒️
+![astro]  
+![css]  
+![deno]  
+![editor]  
+![git]  
+![gms]  
+![html]  
+![js]  
+![node]  
+![ts]  
+![vite]  
 
-## Stats
+## Stats 📈
 ![metrics]
