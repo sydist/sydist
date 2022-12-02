@@ -23,11 +23,14 @@
 
 # the [[sudo]](https://en.wikipedia.org/wiki/Sudo)nym is <ins>[sydist](https://github.com/sydist)</ins>.
 
-👋 hey, i'm <ins>sydist</ins>. <small>(that's a pen name)</small>  👋  
+👋 hey, i'm <ins>sydist</ins>, <small>(that's a pen name).</small> 👋  
 
-i’m a self-taught software engineer.  
-i build software,—mainly websites— but i also make tools.
+i’m a self-taught full-stack engineer.  
+i build software like websites, tools, sometimes games and mods in my free time.
 
+currently learning:
+- Rust
+- React
 
 ## Toolbelt ⚒️
 ![astro]  
