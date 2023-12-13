@@ -6,7 +6,7 @@ I've been into computers since a young age. **<ins>I love problem-solving and le
 
 ### Tools & Tech 🛠️
 
-- Experience with the Windows & Linux **Command Line**.
+- Experience with Windows and Linux.
 - CI/CD with **Github Actions**.
-- Languages like **HTML**, **CSS**, **JavaScript**, **TypeScript**.
-- Tools like **React**, **Astro**, **Node.js**, **Git**, **Github**, **GameMaker**.
+- Languages like **HTML**, **CSS**, **JavaScript**, **TypeScript**, **Python**.
+- Tools like **Next.js**, **React**, **Astro**, **Node.js**, **Git**, **Github**, **Godot**.
